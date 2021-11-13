@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.graph_objects as go
 from sklearn.svm import SVC
 from joblib import dump, load
 from sklearn.model_selection import train_test_split 
