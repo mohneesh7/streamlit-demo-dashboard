@@ -1,4 +1,2 @@
 [theme]
 base="light"
-[deprecation]
-showPyplotGlobalUse = False
